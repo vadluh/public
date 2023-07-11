@@ -1,0 +1,7 @@
+{
+    "name": "vadluh/public",
+    "description": "test package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
